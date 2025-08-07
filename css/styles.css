@@ -336,7 +336,7 @@ body {
 
 .bestsellers-card {
     max-width: 300px;
-    height: 350px;
+    height: 400px;
     background: white;
     border-radius: 10px;
     overflow: hidden;
@@ -717,7 +717,7 @@ body {
 }
 
 .team-items {
-  height: 450px;
+  height: 500px;
   background: white;
   border-radius: 10px;
   overflow: hidden;
